@@ -1,14 +1,11 @@
 # CODSOFT
-Features:
+Welcome to the Internship Projects Repository! This repository serves as a collection of three projects undertaken by me during the internship time at CODSOFT.
+These projects reflect the dedication, creativity, and skills while working on real-world challenges, gained hands-on experience.
 
-Basic arithmetic operations.
-Clear and intuitive user interface for easy calculations.
-Responsive design for seamless use on both desktop and mobile devices.
-A fun and educational way for interns to learn and practice web development skills.
+Projects Included:
 
-Technologies Used:
-
-HTML, CSS for front-end development.
-JavaScript for the calculator's logic.
+[Task 1]: 
+[Task 3]: 
+[Task 3]: CALCULATOR
 
 
