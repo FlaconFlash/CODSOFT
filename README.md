@@ -5,7 +5,7 @@ These projects reflect the dedication, creativity, and skills while working on r
 Projects Included:
 
 [Task 1]: 
-[Task 3]: 
+[Task 2]: PORTFOLIO 
 [Task 3]: CALCULATOR
 
 
